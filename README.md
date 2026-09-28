@@ -1,6 +1,6 @@
-# Cnae Simples Nacional
+# Demonstração — Consulta de CNAE permitido no Simples Nacional
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de consulta de CNAE permitido no Simples Nacional — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Verificar se um CNAE é permitido no Simples Nacional exigia consulta à legislação.
